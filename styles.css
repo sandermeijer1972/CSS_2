@@ -1,0 +1,37 @@
+.border1 {
+  border-width: 15px;
+  padding: 20px;
+  margin: 20px;
+  border-style: dotted;
+  background-color: red;
+}
+
+.border2 {
+  border-width: 3px;
+  padding: 10px;
+  margin: 15px;
+  border-style: solid;
+  border-radius: 15px;
+  background-color: yellow;
+  text-align: center;
+}
+
+.border3 {
+  border-width: 5px;
+  padding: 25px;
+  margin: 0 auto;
+  border-style: double;
+  border-radius: 20px;
+  background-color: green;
+}
+
+.background-oranje {
+  background-color: orange;
+}
+
+.link {
+  display: inline;
+  border: hidden;
+  padding: 20px;
+  margin: 15px;
+}
